@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/macroapp/static/css/main.00a389db.css",
-    "main.js": "/macroapp/static/js/main.dcfaeeb7.js",
+    "main.js": "/macroapp/static/js/main.ba6fd22a.js",
     "static/js/787.8257c1df.chunk.js": "/macroapp/static/js/787.8257c1df.chunk.js",
     "index.html": "/macroapp/index.html",
     "main.00a389db.css.map": "/macroapp/static/css/main.00a389db.css.map",
-    "main.dcfaeeb7.js.map": "/macroapp/static/js/main.dcfaeeb7.js.map",
+    "main.ba6fd22a.js.map": "/macroapp/static/js/main.ba6fd22a.js.map",
     "787.8257c1df.chunk.js.map": "/macroapp/static/js/787.8257c1df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00a389db.css",
-    "static/js/main.dcfaeeb7.js"
+    "static/js/main.ba6fd22a.js"
   ]
 }
