@@ -95,7 +95,7 @@ function App() {
     fetch(`${url}/${today}?columns=id`,{
       method: 'PATCH',
       headers: get_options.headers,
-      body: `{"fats":${macros[0].grams},"protein":${macros[2].grams},"carbs":${macros[0].grams}}`
+      body: `{"fats":${macros[1].grams},"protein":${macros[2].grams},"carbs":${macros[0].grams}}`
     })
     .then((res)=>{
 
